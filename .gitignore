@@ -1,0 +1,29 @@
+# Java 编译产物及构建缓存
+*.class
+out/
+target/
+build/
+.gradle/
+
+# IDE 本地配置
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# JVM 崩溃日志
+hs_err_pid*
+replay_pid*
+
+# 操作系统生成的文件
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# 编辑器临时文件
+*.swp
+*.swo
+*~
+nano.*.save
