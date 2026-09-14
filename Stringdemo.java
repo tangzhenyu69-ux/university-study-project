@@ -1,7 +1,7 @@
 package universitystudy;
 
 public class Stringdemo {
-    public static void main(Stringdemo[] args) {
+    public static void main(String[] args) {
         String firstname = "Cristiano";
         String lastname = "Averio";
         System.out.println(firstname + " " + lastname);

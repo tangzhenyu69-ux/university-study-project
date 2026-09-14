@@ -1,7 +1,7 @@
 package universitystudy;
 
 public class Review {
-    public static void main(Stringdemo[] args) {
+    public static void main(String[] args) {
         int week = 2;
         System.out.println("week=" + week);
         boolean excitedForWeek2 = true;
