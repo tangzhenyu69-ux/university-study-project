@@ -1,0 +1,8 @@
+Mon, snacks, 12.50
+Mon, drinks, 4.00
+Tue, meals, 25.99
+Tue, snacks, 8.10
+Wed, drinks, 3.25
+Wed, meals, 19.99
+Fri, meals, 30.00
+Fri, meals, 10.00

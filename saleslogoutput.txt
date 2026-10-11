@@ -1,0 +1,11 @@
+Day totals:
+Mon: 16.50
+Tue: 34.09
+Wed: 23.24
+Thu: 0.00
+Fri: 40.00
+Sat: 0.00
+Sun: 0.00
+Top day: Fri (40.00)
+Top category: meals (85.98)
+Grand total: 113.83
